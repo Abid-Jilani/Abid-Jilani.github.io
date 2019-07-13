@@ -26,7 +26,7 @@
 	color:#007bff!important;
 }
 .navbar{
-	background: #fff;
+	background: #efefef;
 }
 .navbar-toggler{
 	border: none!important;
@@ -214,7 +214,7 @@ h1::after{
 	margin: 10px auto;
 	display: inline;
 	float: left;
-	width: 100%;
+	/*width: 100%;*/
 	background-color: #fff;
 	transition: 0.5s;
 }
